@@ -4,7 +4,8 @@ body{
     color: #EEECE5;
     background-color: #24262a ;
     font-family: 'REM';
-    text-align: center;
+    text-align: left;
+    
 }
 
 .ytpfp{
@@ -12,8 +13,8 @@ body{
     position: relative;
 }
 
-#idid{
-    text-decoration: underline;
+.header{
+    text-align: center;
 }
 
 .ytpfp::before {
